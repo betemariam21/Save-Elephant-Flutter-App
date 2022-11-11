@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015694434465",
+    "project_id": "save-elephant-b295a",
+    "storage_bucket": "save-elephant-b295a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015694434465:android:fd299f072f711ea8a4d0e0",
+        "android_client_info": {
+          "package_name": "com.example.save_elephants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015694434465-5bdatq2lcb05pa428l5hh4g8en7e7jm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI5BRpzCfuXZtSi1FMU_F-J03qZjgtqtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015694434465-5bdatq2lcb05pa428l5hh4g8en7e7jm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
